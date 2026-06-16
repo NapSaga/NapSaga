@@ -8,6 +8,4 @@ The AI tutor used by **55,000+ students**, built end to end from strategy to cod
 
 If it has an interface and solves a problem, I've probably built it.
 
-**Winner · HackRome 2026** — built [Whisperer](https://devpost.com/software/whisperers), a structured memory layer for voice agents. ([repo](https://github.com/NapSaga/Whisperer))
-
 [studierai.app](https://www.studierai.app/) · [napasaga.it](https://www.napasaga.it/) · [LinkedIn](https://www.linkedin.com/in/giovanni-di-fonzo-111692297)
