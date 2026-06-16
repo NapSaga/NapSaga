@@ -1,0 +1,33 @@
+{
+  "runId": "news-morning-35865100",
+  "runAt": "2026-06-16T05:00:18.568Z",
+  "slot": "morning",
+  "rawCount": 296,
+  "dedupedCount": 80,
+  "filteredCount": 0,
+  "signals": [],
+  "topPick": null,
+  "durationMs": 1584,
+  "costs": {
+    "filterTokensIn": 0,
+    "filterTokensOut": 0,
+    "curatorTokensIn": 0,
+    "curatorTokensOut": 0,
+    "webSearches": 0
+  },
+  "errors": [
+    "rss[Anthropic YouTube]: HTTP 404",
+    "rss[Google DeepMind YouTube]: HTTP 404",
+    "rss[r/MachineLearning]: HTTP 429",
+    "rss[r/singularity]: HTTP 429",
+    "rss[r/ClaudeAI]: HTTP 429",
+    "rss[r/OpenAI]: HTTP 429",
+    "rss[r/AI_Agents]: HTTP 429",
+    "x: X_BEARER_TOKEN missing — skipping X source",
+    "filter: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cc6METGj9kCUdXezfa1po\"}",
+    "filter: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cc6MEUMDXtRJJNiE4tkaY\"}",
+    "filter: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cc6MEUo1PZWKxWxX4pdSh\"}",
+    "filter: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cc6MEVFHp7a6xBLGMaCKY\"}",
+    "curator: no pass-verdict items to curate"
+  ]
+}
