@@ -320,6 +320,66 @@
     {
       "id": "cd50901d3e788c56",
       "firstSeenAt": "2026-06-16T05:00:21.876Z"
+    },
+    {
+      "id": "b387731f4f83720d",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "12ceb5f0dc7b30a8",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "d1ebd100c9fde571",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "335f4cf17e12a064",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "3c21c4ebe1c2b5be",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "2992b6c2c089583b",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "9cdd74f026a5c64e",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "08cff32421b3cc3c",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "c38d74d83cf378c9",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "7f441f19da970120",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "42b9d846960fc06c",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "4ca130c9b0e2bb07",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "fbf671b15d825234",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "0ef231e7cd401ffc",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
+    },
+    {
+      "id": "e87d5c4b1a400459",
+      "firstSeenAt": "2026-06-17T05:00:30.892Z"
     }
   ],
   "runs": [
@@ -331,6 +391,15 @@
       "filteredCount": 0,
       "deliveredCount": 0,
       "durationMs": 1584
+    },
+    {
+      "runId": "news-morning-9f46bc75",
+      "runAt": "2026-06-17T05:00:27.663Z",
+      "slot": "morning",
+      "rawCount": 280,
+      "filteredCount": 0,
+      "deliveredCount": 0,
+      "durationMs": 1428
     }
   ]
 }
